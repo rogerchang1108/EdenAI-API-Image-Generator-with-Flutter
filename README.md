@@ -12,7 +12,7 @@ The project utilizes EdenAI as an example to demonstrate how to leverage existin
 
 3. Other examples. 
  
-   <img src="img/3.png" alt="component" style="width: 50%;" /><img src="img/2.png" alt="component" style="width: 50%;" />
+   <img src="img/2.png" alt="component" style="width: 33%;" /><img src="img/3.png" alt="component" style="width: 33%;" /><img src="img/4.png" alt="component" style="width: 33%;" />
 
 
 # Resources
