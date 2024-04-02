@@ -1,4 +1,4 @@
-# OpenAI APIs (EdenAI)
+# Replicate APIs (EdenAI)
 
 The project utilizes EdenAI as an example to demonstrate how to leverage existing AI generation providers and their APIs to meet requirements and retrieve generated content.
 
